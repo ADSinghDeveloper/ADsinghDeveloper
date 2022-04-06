@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there! I'm Amandeep Singh, welcome to my GitHub. 🌱
 
-<!--
-**ADSinghDeveloper/ADsinghDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/amandeeps20/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="mailto:adsinghdeveloper@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### About Me 🚀
+💻 I’m a **Full-stack developer** having **10+ years** of experience in web developement with a masters's degree in computer applications.
+    
+<br/>
+<hr />
+
+<div align="center">
+  <a href="https://github.com/ADSinghDeveloper">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADSinghDeveloper&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADSinghDeveloper&layout=compact&langs_count=7&theme=gradient"/>
+</div>
