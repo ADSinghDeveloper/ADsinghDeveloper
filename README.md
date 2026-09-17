@@ -1,44 +1,18 @@
 ### Hi there! I'm Amandeep Singh, welcome to my GitHub. 🌱
-
+## Full-Stack Developer | JavaScript - PHP/Laravel Developer
 <hr />
 
-<a href="https://www.linkedin.com/in/amandeeps20/">
-  <img align="left" alt="Apache HTTP Server" title="Apache HTTP Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-</a>
-<a href="mailto:adsinghdeveloper@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+### 🚀 About Me
 
-<br/>
-
-### About Me 🚀
-💻 I’m a **Full-stack developer** having **10+ years** of experience in web developement with a masters's degree in computer applications.
-<br/>
+💻 I’m a **Full-Stack Developer** with **10+ years** of experience building scalable, high-performance web applications. My core expertise is in JavaScript, TypeScript, React, Next.js, and Node.js, with strong experience in frontend architecture, REST/GraphQL APIs, performance optimization, and reusable component design. I have worked across the full development lifecycle, from technical design and architecture to implementation, code reviews, testing, and production delivery. I’m particularly focused on building maintainable, responsive, and user-centric applications while collaborating effectively with cross-functional and distributed teams.
 <hr />
 
-<div align="center">
-  <a href="https://github.com/ADSinghDeveloper">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADSinghDeveloper&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADSinghDeveloper&layout=compact&langs_count=7&theme=gradient"/>
-</div>
- 
-<br/>
-  
-### ⚡ Technologies I love and use
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Redux" title="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="jQuery" title="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="HTML5" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Laravel" title="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Git" title="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Apache HTTP Server" title="Apache HTTP Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
-  <img align="center" alt="Ubuntu" title="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
-</div>
+### 🧰 Tech Stack & Skills ⚡
+<ul>
+  <li><b>Frontend:</b> ReactJs, NextJs, TypeScript, JavaScript, jQuery, HTML5, CSS3, Bootstrap, SASS</li>
+  <li><b>Backend:</b> NodeJs, PHP/Laravel, API Design, REST API, GraphQL</li>
+  <li><b>Databases:</b> PostgreSQL, MySQL, SQLite</li>
+  <li><b>Version Control:</b> Git (GitHub, Bitbucket)</li>
+  <li><b>Development Practices:</b> Agile, SCRUM, TDD</li>
+  <li><b>Domains:</b> Enterprise Applications, Finance, E-commerce</li>
+</ul>
