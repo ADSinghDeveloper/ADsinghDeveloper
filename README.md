@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Amandeep Singh
 
-### 💻 Full-Stack Developer | JavaScript - PHP/Laravel Developer
+### 💻 Full-Stack Developer | ReactJs/JavaScript/TypeScript - PHP/Laravel Developer
 <hr />
 
 ### 🚀 About Me
